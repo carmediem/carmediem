@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Carmen! 
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Swift to become an iOS Developer. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects of all sizes! I'm eager to learn Swift by building features and applications that will help improve the overall user expereince.
 - 📫 How to reach me carmenschiu@gmail.com
 
 <!---
